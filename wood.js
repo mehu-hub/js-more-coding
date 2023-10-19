@@ -6,7 +6,7 @@ function woodCalculator(chairQuantity, tableQuantity, bedQuantity){
     const chairWood = chairQuantity * perChairWood;
     const tableWood = tableQuantity * perTableWood;
     const bedWood = bedQuantity * perBedWood;
-
+    //---------------------
     const totalWood = chairWood + tableWood + bedWood;
     return totalWood;
 
