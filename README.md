@@ -3,4 +3,7 @@
     <li>Divisible</li>
     <li>Wood</li>
     <li>Cheapest</li>
+    <li>Simple-Cart</li>
+    <li>Discount</li>
+    <li>Validation</li>
 </ul>
