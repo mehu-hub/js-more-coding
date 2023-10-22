@@ -6,4 +6,5 @@
     <li>Simple-Cart</li>
     <li>Discount</li>
     <li>Validation</li>
+    <li>Matched</li>
 </ul>
